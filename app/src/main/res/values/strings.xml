@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VISTARA</string>
+    <string name="bot_name">pnrcheck</string>
+    <string name="bot_alias">$LATEST</string>
+    <string name="identity_id_test">us-east-1:c422f53b-c148-4d33-b080-e22deb876e8c</string>
+    <string name="aws_region">us-east-1</string>
+    <string name="screen_options_main_message">SELECT AN OPTION</string>
+</resources>
